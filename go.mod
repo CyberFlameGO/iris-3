@@ -42,9 +42,9 @@ require (
 	github.com/yosssi/ace v0.0.5
 	go.etcd.io/bbolt v1.3.6
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
-	golang.org/x/net v0.0.0-20220412020605-290c469a71a5
-	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
-	golang.org/x/text v0.3.7
+	golang.org/x/net v0.7.0
+	golang.org/x/sys v0.5.0
+	golang.org/x/text v0.7.0
 	golang.org/x/time v0.0.0-20220411224347-583f2d630306
 	google.golang.org/protobuf v1.28.0
 	gopkg.in/ini.v1 v1.66.4
